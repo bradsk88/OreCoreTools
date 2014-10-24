@@ -1,0 +1,16 @@
+[
+{
+  "modid": "OreCoreTools",
+  "name": "OreCore: Tools",
+  "description": "Tools made using the ores in OreCore",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["bradsk88"],
+  "credits": "Brad Johnson (bradsk88)",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
